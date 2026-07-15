@@ -24,9 +24,9 @@ export default function Hero() {
         transition={{ duration: 0.8 }}
         className="relative z-10 mx-auto flex max-w-7xl flex-col items-center px-6 text-center"
       >
-        <p className="mb-4 text-sm uppercase tracking-[0.4em] text-blue-400">
+        {/* <p className="mb-4 text-sm uppercase tracking-[0.4em] text-blue-400">
           Welcome
-        </p>
+        </p> */}
 
         <h1 className="text-5xl font-extrabold leading-tight md:text-7xl lg:text-8xl">
           Rahul <span className="text-blue-500">Chowdary</span>
