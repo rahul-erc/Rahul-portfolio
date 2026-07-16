@@ -3,7 +3,7 @@ export const certifications = [
     title: "ISTQB Foundation Level",
     issuer: "International Software Testing Qualifications Board",
     year: "2024",
-    credential: "#"
+    credential: "https://drive.google.com/file/d/1yIOB6PAZH_lAqyJ0bEwP7wMlBK5vKYrL/view?usp=sharing"
   },
 
   {

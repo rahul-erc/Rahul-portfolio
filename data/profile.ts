@@ -4,7 +4,7 @@ export const profile = {
 
   company: "IBM",
 
-  location: "India",
+  location: "Bangalore,India",
 
   experience: "2+ Years",
 

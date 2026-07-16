@@ -28,7 +28,6 @@ export const projects = [
     technologies: [
       "REST API",
       "Postman",
-      "Katalon",
       "JSON"
     ],
 
