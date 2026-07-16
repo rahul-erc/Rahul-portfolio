@@ -37,11 +37,16 @@ export default function About() {
           >
             <div className="rounded-3xl border border-white/10 bg-white/[0.04] p-10 backdrop-blur-xl">
 
-              <div className="flex h-80 items-center justify-center rounded-3xl bg-gradient-to-br from-blue-600 via-blue-500 to-violet-600">
+              <div className="overflow-hidden rounded-2xl">
 
-                <span className="text-8xl font-black">
-                  RC
-                </span>
+                <Image
+                  src="/images/profile.jpg"
+                  alt="Rahul Chowdary"
+                  width={400}
+                  height={400}
+                  className="h-72 w-full rounded-2xl object-cover"
+                  priority
+                />
 
               </div>
 
