@@ -7,7 +7,7 @@ import {
 
 export const achievements = [
   {
-    number: "120+",
+    number: "320+",
     title: "Critical Bugs Found",
     description:
       "Identified high-priority production issues before release.",
@@ -23,7 +23,7 @@ export const achievements = [
   },
 
   {
-    number: "6+",
+    number: "16+",
     title: "Major Releases",
     description:
       "Successfully validated enterprise production releases.",
@@ -31,7 +31,7 @@ export const achievements = [
   },
 
   {
-    number: "15+",
+    number: "12+",
     title: "Enterprise Projects",
     description:
       "Contributed to multiple enterprise QA initiatives.",
