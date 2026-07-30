@@ -82,8 +82,8 @@ export default function Hero() {
           {[
             { value: "2+", label: "Years Experience" },
             { value: "80%", label: "Automation Coverage" },
-            { value: "120+", label: "Critical Bugs Found" },
-            { value: "6+", label: "Major Releases" },
+            { value: "320+", label: "Critical Bugs Found" },
+            { value: "16+", label: "Major Releases" },
           ].map((item) => (
             <motion.div
               key={item.label}
